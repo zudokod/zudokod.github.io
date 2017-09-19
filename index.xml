@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zudo..</title>
-    <link>http://zudokod.github.io/</link>
+    <link>https://zudokod.github.io/</link>
     <description>Recent content on Zudo..</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
     <lastBuildDate>Tue, 19 Sep 2017 18:43:37 +0530</lastBuildDate>
     
-	<atom:link href="http://zudokod.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zudokod.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simple2</title>
-      <link>http://zudokod.github.io/posts/simple2/</link>
+      <link>https://zudokod.github.io/posts/simple2/</link>
       <pubDate>Tue, 19 Sep 2017 18:43:37 +0530</pubDate>
       
-      <guid>http://zudokod.github.io/posts/simple2/</guid>
+      <guid>https://zudokod.github.io/posts/simple2/</guid>
       <description>## hhhhhhh</description>
     </item>
     
     <item>
       <title>Simple</title>
-      <link>http://zudokod.github.io/posts/simple/</link>
+      <link>https://zudokod.github.io/posts/simple/</link>
       <pubDate>Tue, 19 Sep 2017 18:22:28 +0530</pubDate>
       
-      <guid>http://zudokod.github.io/posts/simple/</guid>
+      <guid>https://zudokod.github.io/posts/simple/</guid>
       <description>This is simple html</description>
     </item>
     
     <item>
       <title>This is a simple post</title>
-      <link>http://zudokod.github.io/posts/my-first-post/</link>
+      <link>https://zudokod.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 19 Sep 2017 17:40:44 +0530</pubDate>
       
-      <guid>http://zudokod.github.io/posts/my-first-post/</guid>
+      <guid>https://zudokod.github.io/posts/my-first-post/</guid>
       <description> Heading is ready </description>
     </item>
     
